@@ -1,0 +1,12 @@
+{
+  "@metadata": {
+    "authors": [ "PACKED vzw" ]
+  },
+  "resolver-desc": "Mediawiki exporter that exports a list of all pages with their URLs and ID's for use in the Resolver application.",
+  "resolver": "Resolver",
+  "resolver-title": "Export Resolver-compatible page list",
+  "resolver-format-label": "Export format",
+  "resolver-submit": "Submit",
+  "resolver-download": "Creation complete. Download the file [%s here].",
+  "resolver-csv": "CSV"
+}
